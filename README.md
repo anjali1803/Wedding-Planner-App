@@ -57,6 +57,5 @@ wedding-planner-app/
 
 See `DEVELOPMENT_GUIDE.md` for detailed setup instructions.
 
-## License
 
-MIT
+
